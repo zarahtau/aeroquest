@@ -13,11 +13,15 @@
 
 ### Real-time Updates and Notifications
 - **Flight Status**: Receive real-time updates on flight delays, cancellations, and gate changes.
-- **Notifications**: Automated notifications via email or SMS for changes in flight itinerary 
+- **Notifications**: Automated notifications via email or SMS for changes in flight itinerary
+
+### Rewards Program
+- **Verfied Account**: Users with accounts with AeroQuest are able to acrue points that can redeemed for flights, upgrades, or other amentities.
+### Baggage Management 
+- **Baggage**: Users can add checked bags where Aeroquest will check baggage requirements and rules
 
 ### Additional Tools and Features
 - **CSV Integration**: Import and find data through CSV files containing pricing, dates, and airline routes.
-- **Wanna Get Away Feature**: Find the cheapest flights for a specified region.
 - **Add to Cart**: Users can add flights to their cart, making the booking process seamless and efficient.
 
 ## Non-Functional Requirements
