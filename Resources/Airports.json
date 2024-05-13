@@ -1,0 +1,2038 @@
+{
+  "Airports": [
+    {
+      "Airport_City": "Allentown",
+      "Airport_Code": "ABE",
+      "Airport_Name": "Lehigh Valley International Airport",
+      "Airport_State": "Pennsylvania"
+    },
+    {
+      "Airport_City": "Abilene",
+      "Airport_Code": "ABI",
+      "Airport_Name": "Abilene Regional Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Albuquerque",
+      "Airport_Code": "ABQ",
+      "Airport_Name": "Albuquerque International Sunport",
+      "Airport_State": "New Mexico"
+    },
+    {
+      "Airport_City": "Aberdeen",
+      "Airport_Code": "ABR",
+      "Airport_Name": "Aberdeen Regional Airport",
+      "Airport_State": "South Dakota"
+    },
+    {
+      "Airport_City": "Albany",
+      "Airport_Code": "ABY",
+      "Airport_Name": "Southwest Georgia Regional Airport",
+      "Airport_State": "Georgia"
+    },
+    {
+      "Airport_City": "Nantucket",
+      "Airport_Code": "ACK",
+      "Airport_Name": "Nantucket Memorial Airport",
+      "Airport_State": "Massachusetts"
+    },
+    {
+      "Airport_City": "Waco",
+      "Airport_Code": "ACT",
+      "Airport_Name": "Waco Regional Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Arcata/Eureka",
+      "Airport_Code": "ACV",
+      "Airport_Name": "California Redwood Coast-Humboldt County Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Atlantic City",
+      "Airport_Code": "ACY",
+      "Airport_Name": "Atlantic City International Airport",
+      "Airport_State": "New Jersey"
+    },
+    {
+      "Airport_City": "Adak Island",
+      "Airport_Code": "ADK",
+      "Airport_Name": "Adak Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Kodiak",
+      "Airport_Code": "ADQ",
+      "Airport_Name": "Kodiak Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Alexandria",
+      "Airport_Code": "AEX",
+      "Airport_Name": "Alexandria International Airport",
+      "Airport_State": "Louisiana"
+    },
+    {
+      "Airport_City": "Augusta",
+      "Airport_Code": "AGS",
+      "Airport_Name": "Augusta Regional Airport",
+      "Airport_State": "Georgia"
+    },
+    {
+      "Airport_City": "King Salmon",
+      "Airport_Code": "AKN",
+      "Airport_Name": "King Salmon Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Albany",
+      "Airport_Code": "ALB",
+      "Airport_Name": "Albany International Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Waterloo",
+      "Airport_Code": "ALO",
+      "Airport_Name": "Waterloo Regional Airport",
+      "Airport_State": "Iowa"
+    },
+    {
+      "Airport_City": "Amarillo",
+      "Airport_Code": "AMA",
+      "Airport_Name": "Rick Husband Amarillo International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Anchorage",
+      "Airport_Code": "ANC",
+      "Airport_Name": "Ted Stevens Anchorage International Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Alpena",
+      "Airport_Code": "APN",
+      "Airport_Name": "Alpena County Regional Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Watertown",
+      "Airport_Code": "ART",
+      "Airport_Name": "Watertown International Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Aspen",
+      "Airport_Code": "ASE",
+      "Airport_Name": "Aspen/Pitkin County Airport",
+      "Airport_State": "Colorado"
+    },
+    {
+      "Airport_City": "Appleton",
+      "Airport_Code": "ATW",
+      "Airport_Name": "Appleton International Airport",
+      "Airport_State": "Wisconsin"
+    },
+    {
+      "Airport_City": "Watertown",
+      "Airport_Code": "ATY",
+      "Airport_Name": "Watertown Regional Airport",
+      "Airport_State": "South Dakota"
+    },
+    {
+      "Airport_City": "Austin",
+      "Airport_Code": "AUS",
+      "Airport_Name": "Austin-Bergstrom International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Asheville",
+      "Airport_Code": "AVL",
+      "Airport_Name": "Asheville Regional Airport",
+      "Airport_State": "North Carolina"
+    },
+    {
+      "Airport_City": "Scranton/Wilkes-Barre",
+      "Airport_Code": "AVP",
+      "Airport_Name": "Wilkes-Barre/Scranton International Airport",
+      "Airport_State": "Pennsylvania"
+    },
+    {
+      "Airport_City": "Mesa",
+      "Airport_Code": "AZA",
+      "Airport_Name": "Phoenix-Mesa Gateway Airport",
+      "Airport_State": "Arizona"
+    },
+    {
+      "Airport_City": "Kalamazoo/Battle Creek",
+      "Airport_Code": "AZO",
+      "Airport_Name": "Kalamazoo/Battle Creek International Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Hartford",
+      "Airport_Code": "BDL",
+      "Airport_Name": "Bradley International Airport",
+      "Airport_State": "Connecticut"
+    },
+    {
+      "Airport_City": "Bethel",
+      "Airport_Code": "BET",
+      "Airport_Name": "Bethel Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Scottsbluff",
+      "Airport_Code": "BFF",
+      "Airport_Name": "Western Nebraska Regional Airport",
+      "Airport_State": "Nebraska"
+    },
+    {
+      "Airport_City": "Bakersfield",
+      "Airport_Code": "BFL",
+      "Airport_Name": "Meadows Field Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Binghamton",
+      "Airport_Code": "BGM",
+      "Airport_Name": "Greater Binghamton Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Bangor",
+      "Airport_Code": "BGR",
+      "Airport_Name": "Bangor International Airport",
+      "Airport_State": "Maine"
+    },
+    {
+      "Airport_City": "Birmingham",
+      "Airport_Code": "BHM",
+      "Airport_Name": "Birmingham-Shuttlesworth International Airport",
+      "Airport_State": "Alabama"
+    },
+    {
+      "Airport_City": "Billings",
+      "Airport_Code": "BIL",
+      "Airport_Name": "Billings Logan International Airport",
+      "Airport_State": "Montana"
+    },
+    {
+      "Airport_City": "Bismarck",
+      "Airport_Code": "BIS",
+      "Airport_Name": "Bismarck Municipal Airport",
+      "Airport_State": "North Dakota"
+    },
+    {
+      "Airport_City": "Bemidji",
+      "Airport_Code": "BJI",
+      "Airport_Name": "Bemidji Regional Airport",
+      "Airport_State": "Minnesota"
+    },
+    {
+      "Airport_City": "Bellingham",
+      "Airport_Code": "BLI",
+      "Airport_Name": "Bellingham International Airport",
+      "Airport_State": "Washington"
+    },
+    {
+      "Airport_City": "Bloomington/Normal",
+      "Airport_Code": "BMI",
+      "Airport_Name": "Central Illinois Regional Airport",
+      "Airport_State": "Illinois"
+    },
+    {
+      "Airport_City": "Nashville",
+      "Airport_Code": "BNA",
+      "Airport_Name": "Nashville International Airport",
+      "Airport_State": "Tennessee"
+    },
+    {
+      "Airport_City": "Boise",
+      "Airport_Code": "BOI",
+      "Airport_Name": "Boise Air Terminal/Gowen Field",
+      "Airport_State": "Idaho"
+    },
+    {
+      "Airport_City": "Boston",
+      "Airport_Code": "BOS",
+      "Airport_Name": "Logan International Airport",
+      "Airport_State": "Massachusetts"
+    },
+    {
+      "Airport_City": "Beaumont/Port Arthur",
+      "Airport_Code": "BPT",
+      "Airport_Name": "Jack Brooks Regional Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Brunswick",
+      "Airport_Code": "BQK",
+      "Airport_Name": "Brunswick Golden Isles Airport",
+      "Airport_State": "Georgia"
+    },
+    {
+      "Airport_City": "Aguadilla",
+      "Airport_Code": "BQN",
+      "Airport_Name": "Rafael Hern\u00e1ndez International Airport",
+      "Airport_State": "Puerto Rico"
+    },
+    {
+      "Airport_City": "Brownsville",
+      "Airport_Code": "BRO",
+      "Airport_Name": "Brownsville/South Padre Island International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Barrow",
+      "Airport_Code": "BRW",
+      "Airport_Name": "Wiley Post-Will Rogers Memorial Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Butte",
+      "Airport_Code": "BTM",
+      "Airport_Name": "Bert Mooney Airport",
+      "Airport_State": "Montana"
+    },
+    {
+      "Airport_City": "Baton Rouge",
+      "Airport_Code": "BTR",
+      "Airport_Name": "Baton Rouge Metropolitan Airport",
+      "Airport_State": "Louisiana"
+    },
+    {
+      "Airport_City": "Burlington",
+      "Airport_Code": "BTV",
+      "Airport_Name": "Burlington International Airport",
+      "Airport_State": "Vermont"
+    },
+    {
+      "Airport_City": "Buffalo",
+      "Airport_Code": "BUF",
+      "Airport_Name": "Buffalo Niagara International Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Burbank",
+      "Airport_Code": "BUR",
+      "Airport_Name": "Hollywood Burbank Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Baltimore",
+      "Airport_Code": "BWI",
+      "Airport_Name": "Baltimore/Washington International Thurgood Marshall Airport",
+      "Airport_State": "Maryland"
+    },
+    {
+      "Airport_City": "Bozeman",
+      "Airport_Code": "BZN",
+      "Airport_Name": "Bozeman Yellowstone International Airport",
+      "Airport_State": "Montana"
+    },
+    {
+      "Airport_City": "Columbia",
+      "Airport_Code": "CAE",
+      "Airport_Name": "Columbia Metropolitan Airport",
+      "Airport_State": "South Carolina"
+    },
+    {
+      "Airport_City": "Akron/Canton",
+      "Airport_Code": "CAK",
+      "Airport_Name": "Akron-Canton Airport",
+      "Airport_State": "Ohio"
+    },
+    {
+      "Airport_City": "Cedar City",
+      "Airport_Code": "CDC",
+      "Airport_Name": "Cedar City Regional Airport",
+      "Airport_State": "Utah"
+    },
+    {
+      "Airport_City": "Cordova",
+      "Airport_Code": "CDV",
+      "Airport_Name": "Merle K. (Mudhole) Smith Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Crescent City",
+      "Airport_Code": "CEC",
+      "Airport_Name": "Jack McNamara Field Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Cape Girardeau",
+      "Airport_Code": "CGI",
+      "Airport_Name": "Cape Girardeau Regional Airport",
+      "Airport_State": "Missouri"
+    },
+    {
+      "Airport_City": "Chattanooga",
+      "Airport_Code": "CHA",
+      "Airport_Name": "Chattanooga Metropolitan Airport",
+      "Airport_State": "Tennessee"
+    },
+    {
+      "Airport_City": "Charlottesville",
+      "Airport_Code": "CHO",
+      "Airport_Name": "Charlottesville-Albemarle Airport",
+      "Airport_State": "Virginia"
+    },
+    {
+      "Airport_City": "Charleston",
+      "Airport_Code": "CHS",
+      "Airport_Name": "Charleston International Airport",
+      "Airport_State": "South Carolina"
+    },
+    {
+      "Airport_City": "Cedar Rapids/Iowa City",
+      "Airport_Code": "CID",
+      "Airport_Name": "The Eastern Iowa Airport",
+      "Airport_State": "Iowa"
+    },
+    {
+      "Airport_City": "Sault Ste. Marie",
+      "Airport_Code": "CIU",
+      "Airport_Name": "Chippewa County International Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Carlsbad",
+      "Airport_Code": "CLD",
+      "Airport_Name": "McClellan-Palomar Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Cleveland",
+      "Airport_Code": "CLE",
+      "Airport_Name": "Cleveland Hopkins International Airport",
+      "Airport_State": "Ohio"
+    },
+    {
+      "Airport_City": "College Station",
+      "Airport_Code": "CLL",
+      "Airport_Name": "Easterwood Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Charlotte",
+      "Airport_Code": "CLT",
+      "Airport_Name": "Charlotte Douglas International Airport",
+      "Airport_State": "North Carolina"
+    },
+    {
+      "Airport_City": "Columbus",
+      "Airport_Code": "CMH",
+      "Airport_Name": "John Glenn Columbus International Airport",
+      "Airport_State": "Ohio"
+    },
+    {
+      "Airport_City": "Champaign/Urbana",
+      "Airport_Code": "CMI",
+      "Airport_Name": "University of Illinois Willard Airport",
+      "Airport_State": "Illinois"
+    },
+    {
+      "Airport_City": "Hancock",
+      "Airport_Code": "CMX",
+      "Airport_Name": "Houghton County Memorial Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Cody",
+      "Airport_Code": "COD",
+      "Airport_Name": "Yellowstone Regional Airport",
+      "Airport_State": "Wyoming"
+    },
+    {
+      "Airport_City": "Colorado Springs",
+      "Airport_Code": "COS",
+      "Airport_Name": "Colorado Springs Airport",
+      "Airport_State": "Colorado"
+    },
+    {
+      "Airport_City": "Columbia",
+      "Airport_Code": "COU",
+      "Airport_Name": "Columbia Regional Airport",
+      "Airport_State": "Missouri"
+    },
+    {
+      "Airport_City": "Corpus Christi",
+      "Airport_Code": "CRP",
+      "Airport_Name": "Corpus Christi International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Charleston",
+      "Airport_Code": "CRW",
+      "Airport_Name": "Yeager Airport",
+      "Airport_State": "West Virginia"
+    },
+    {
+      "Airport_City": "Columbus",
+      "Airport_Code": "CSG",
+      "Airport_Name": "Columbus Metropolitan Airport",
+      "Airport_State": "Georgia"
+    },
+    {
+      "Airport_City": "Cincinnati",
+      "Airport_Code": "CVG",
+      "Airport_Name": "Cincinnati/Northern Kentucky International Airport",
+      "Airport_State": "Ohio"
+    },
+    {
+      "Airport_City": "Wausau/Stevens Point",
+      "Airport_Code": "CWA",
+      "Airport_Name": "Central Wisconsin Airport",
+      "Airport_State": "Wisconsin"
+    },
+    {
+      "Airport_City": "Daytona Beach",
+      "Airport_Code": "DAB",
+      "Airport_Name": "Daytona Beach International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Dallas",
+      "Airport_Code": "DAL",
+      "Airport_Name": "Dallas Love Field",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Dayton",
+      "Airport_Code": "DAY",
+      "Airport_Name": "James M. Cox Dayton International Airport",
+      "Airport_State": "Ohio"
+    },
+    {
+      "Airport_City": "Dubuque",
+      "Airport_Code": "DBQ",
+      "Airport_Name": "Dubuque Regional Airport",
+      "Airport_State": "Iowa"
+    },
+    {
+      "Airport_City": "Denver",
+      "Airport_Code": "DEN",
+      "Airport_Name": "Denver International Airport",
+      "Airport_State": "Colorado"
+    },
+    {
+      "Airport_City": "Dallas/Fort Worth",
+      "Airport_Code": "DFW",
+      "Airport_Name": "Dallas/Fort Worth International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Dothan",
+      "Airport_Code": "DHN",
+      "Airport_Name": "Dothan Regional Airport",
+      "Airport_State": "Alabama"
+    },
+    {
+      "Airport_City": "Dickinson",
+      "Airport_Code": "DIK",
+      "Airport_Name": "Dickinson Theodore Roosevelt Regional Airport",
+      "Airport_State": "North Dakota"
+    },
+    {
+      "Airport_City": "Dillingham",
+      "Airport_Code": "DLG",
+      "Airport_Name": "Dillingham Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Duluth",
+      "Airport_Code": "DLH",
+      "Airport_Name": "Duluth International Airport",
+      "Airport_State": "Minnesota"
+    },
+    {
+      "Airport_City": "Durango",
+      "Airport_Code": "DRO",
+      "Airport_Name": "Durango-La Plata County Airport",
+      "Airport_State": "Colorado"
+    },
+    {
+      "Airport_City": "Des Moines",
+      "Airport_Code": "DSM",
+      "Airport_Name": "Des Moines International Airport",
+      "Airport_State": "Iowa"
+    },
+    {
+      "Airport_City": "Detroit",
+      "Airport_Code": "DTW",
+      "Airport_Name": "Detroit Metropolitan Wayne County Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "DuBois",
+      "Airport_Code": "DUJ",
+      "Airport_Name": "DuBois Regional Airport",
+      "Airport_State": "Pennsylvania"
+    },
+    {
+      "Airport_City": "Devils Lake",
+      "Airport_Code": "DVL",
+      "Airport_Name": "Devils Lake Regional Airport",
+      "Airport_State": "North Dakota"
+    },
+    {
+      "Airport_City": "Eau Claire",
+      "Airport_Code": "EAU",
+      "Airport_Name": "Chippewa Valley Regional Airport",
+      "Airport_State": "Wisconsin"
+    },
+    {
+      "Airport_City": "Vail",
+      "Airport_Code": "EGE",
+      "Airport_Name": "Eagle County Regional Airport",
+      "Airport_State": "Colorado"
+    },
+    {
+      "Airport_City": "Elko",
+      "Airport_Code": "EKO",
+      "Airport_Name": "Elko Regional Airport",
+      "Airport_State": "Nevada"
+    },
+    {
+      "Airport_City": "Elmira/Corning",
+      "Airport_Code": "ELM",
+      "Airport_Name": "Elmira/Corning Regional Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "El Paso",
+      "Airport_Code": "ELP",
+      "Airport_Name": "El Paso International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Erie",
+      "Airport_Code": "ERI",
+      "Airport_Name": "Erie International Airport/Tom Ridge Field",
+      "Airport_State": "Pennsylvania"
+    },
+    {
+      "Airport_City": "Escanaba",
+      "Airport_Code": "ESC",
+      "Airport_Name": "Delta County Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Eugene",
+      "Airport_Code": "EUG",
+      "Airport_Name": "Eugene Airport",
+      "Airport_State": "Oregon"
+    },
+    {
+      "Airport_City": "Evansville",
+      "Airport_Code": "EVV",
+      "Airport_Name": "Evansville Regional Airport",
+      "Airport_State": "Indiana"
+    },
+    {
+      "Airport_City": "New Bern",
+      "Airport_Code": "EWN",
+      "Airport_Name": "Coastal Carolina Regional Airport",
+      "Airport_State": "North Carolina"
+    },
+    {
+      "Airport_City": "Newark",
+      "Airport_Code": "EWR",
+      "Airport_Name": "Newark Liberty International Airport",
+      "Airport_State": "New Jersey"
+    },
+    {
+      "Airport_City": "Key West",
+      "Airport_Code": "EYW",
+      "Airport_Name": "Key West International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Fairbanks",
+      "Airport_Code": "FAI",
+      "Airport_Name": "Fairbanks International Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Fargo",
+      "Airport_Code": "FAR",
+      "Airport_Name": "Hector International Airport",
+      "Airport_State": "North Dakota"
+    },
+    {
+      "Airport_City": "Fresno",
+      "Airport_Code": "FAT",
+      "Airport_Name": "Fresno Yosemite International Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Fayetteville",
+      "Airport_Code": "FAY",
+      "Airport_Name": "Fayetteville Regional Airport",
+      "Airport_State": "North Carolina"
+    },
+    {
+      "Airport_City": "Kalispell",
+      "Airport_Code": "FCA",
+      "Airport_Name": "Glacier Park International Airport",
+      "Airport_State": "Montana"
+    },
+    {
+      "Airport_City": "Flagstaff",
+      "Airport_Code": "FLG",
+      "Airport_Name": "Flagstaff Pulliam Airport",
+      "Airport_State": "Arizona"
+    },
+    {
+      "Airport_City": "Fort Lauderdale",
+      "Airport_Code": "FLL",
+      "Airport_Name": "Fort Lauderdale-Hollywood International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Florence",
+      "Airport_Code": "FLO",
+      "Airport_Name": "Florence Regional Airport",
+      "Airport_State": "South Carolina"
+    },
+    {
+      "Airport_City": "Farmington",
+      "Airport_Code": "FMN",
+      "Airport_Name": "Four Corners Regional Airport",
+      "Airport_State": "New Mexico"
+    },
+    {
+      "Airport_City": "Flint",
+      "Airport_Code": "FNT",
+      "Airport_Name": "Bishop International Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Sioux Falls",
+      "Airport_Code": "FSD",
+      "Airport_Name": "Sioux Falls Regional Airport",
+      "Airport_State": "South Dakota"
+    },
+    {
+      "Airport_City": "Fort Smith",
+      "Airport_Code": "FSM",
+      "Airport_Name": "Fort Smith Regional Airport",
+      "Airport_State": "Arkansas"
+    },
+    {
+      "Airport_City": "Fort Wayne",
+      "Airport_Code": "FWA",
+      "Airport_Name": "Fort Wayne International Airport",
+      "Airport_State": "Indiana"
+    },
+    {
+      "Airport_City": "Spokane",
+      "Airport_Code": "GEG",
+      "Airport_Name": "Spokane International Airport",
+      "Airport_State": "Washington"
+    },
+    {
+      "Airport_City": "Grand Forks",
+      "Airport_Code": "GFK",
+      "Airport_Name": "Grand Forks International Airport",
+      "Airport_State": "North Dakota"
+    },
+    {
+      "Airport_City": "Longview",
+      "Airport_Code": "GGG",
+      "Airport_Name": "East Texas Regional Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Grand Junction",
+      "Airport_Code": "GJT",
+      "Airport_Name": "Grand Junction Regional Airport",
+      "Airport_State": "Colorado"
+    },
+    {
+      "Airport_City": "Gainesville",
+      "Airport_Code": "GNV",
+      "Airport_Name": "Gainesville Regional Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Gulfport/Biloxi",
+      "Airport_Code": "GPT",
+      "Airport_Name": "Gulfport-Biloxi International Airport",
+      "Airport_State": "Mississippi"
+    },
+    {
+      "Airport_City": "Green Bay",
+      "Airport_Code": "GRB",
+      "Airport_Name": "Green Bay-Austin Straubel International Airport",
+      "Airport_State": "Wisconsin"
+    },
+    {
+      "Airport_City": "Grand Island",
+      "Airport_Code": "GRI",
+      "Airport_Name": "Central Nebraska Regional Airport",
+      "Airport_State": "Nebraska"
+    },
+    {
+      "Airport_City": "Killeen",
+      "Airport_Code": "GRK",
+      "Airport_Name": "Killeen-Fort Hood Regional Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Grand Rapids",
+      "Airport_Code": "GRR",
+      "Airport_Name": "Gerald R. Ford International Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Greensboro/High Point",
+      "Airport_Code": "GSO",
+      "Airport_Name": "Piedmont Triad International Airport",
+      "Airport_State": "North Carolina"
+    },
+    {
+      "Airport_City": "Greenville/Spartanburg",
+      "Airport_Code": "GSP",
+      "Airport_Name": "Greenville-Spartanburg International Airport",
+      "Airport_State": "South Carolina"
+    },
+    {
+      "Airport_City": "Gustavus",
+      "Airport_Code": "GST",
+      "Airport_Name": "Gustavus Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Great Falls",
+      "Airport_Code": "GTF",
+      "Airport_Name": "Great Falls International Airport",
+      "Airport_State": "Montana"
+    },
+    {
+      "Airport_City": "Columbus",
+      "Airport_Code": "GTR",
+      "Airport_Name": "Golden Triangle Regional Airport",
+      "Airport_State": "Mississippi"
+    },
+    {
+      "Airport_City": "Gunnison",
+      "Airport_Code": "GUC",
+      "Airport_Name": "Gunnison-Crested Butte Regional Airport",
+      "Airport_State": "Colorado"
+    },
+    {
+      "Airport_City": "Hag\u00e5t\u00f1a",
+      "Airport_Code": "GUM",
+      "Airport_Name": "Antonio B. Won Pat International Airport",
+      "Airport_State": "Guam"
+    },
+    {
+      "Airport_City": "Hayden/Steamboat Springs",
+      "Airport_Code": "HDN",
+      "Airport_Name": "Yampa Valley Airport",
+      "Airport_State": "Colorado"
+    },
+    {
+      "Airport_City": "Hibbing",
+      "Airport_Code": "HIB",
+      "Airport_Name": "Range Regional Airport",
+      "Airport_State": "Minnesota"
+    },
+    {
+      "Airport_City": "Helena",
+      "Airport_Code": "HLN",
+      "Airport_Name": "Helena Regional Airport",
+      "Airport_State": "Montana"
+    },
+    {
+      "Airport_City": "Honolulu",
+      "Airport_Code": "HNL",
+      "Airport_Name": "Daniel K. Inouye International Airport",
+      "Airport_State": "Hawaii"
+    },
+    {
+      "Airport_City": "Hobbs",
+      "Airport_Code": "HOB",
+      "Airport_Name": "Lea County Regional Airport",
+      "Airport_State": "New Mexico"
+    },
+    {
+      "Airport_City": "Houston",
+      "Airport_Code": "HOU",
+      "Airport_Name": "William P. Hobby Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "White Plains",
+      "Airport_Code": "HPN",
+      "Airport_Name": "Westchester County Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Harlingen",
+      "Airport_Code": "HRL",
+      "Airport_Name": "Valley International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Huntsville",
+      "Airport_Code": "HSV",
+      "Airport_Name": "Huntsville International Airport",
+      "Airport_State": "Alabama"
+    },
+    {
+      "Airport_City": "Huntington",
+      "Airport_Code": "HTS",
+      "Airport_Name": "Tri-State Airport",
+      "Airport_State": "West Virginia"
+    },
+    {
+      "Airport_City": "New Haven",
+      "Airport_Code": "HVN",
+      "Airport_Name": "Tweed New Haven Airport",
+      "Airport_State": "Connecticut"
+    },
+    {
+      "Airport_City": "Hyannis",
+      "Airport_Code": "HYA",
+      "Airport_Name": "Barnstable Municipal Airport",
+      "Airport_State": "Massachusetts"
+    },
+    {
+      "Airport_City": "Hays",
+      "Airport_Code": "HYS",
+      "Airport_Name": "Hays Regional Airport",
+      "Airport_State": "Kansas"
+    },
+    {
+      "Airport_City": "Houston",
+      "Airport_Code": "IAH",
+      "Airport_Name": "George Bush Intercontinental Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Wichita",
+      "Airport_Code": "ICT",
+      "Airport_Name": "Wichita Dwight D. Eisenhower National Airport",
+      "Airport_State": "Kansas"
+    },
+    {
+      "Airport_City": "Idaho Falls",
+      "Airport_Code": "IDA",
+      "Airport_Name": "Idaho Falls Regional Airport",
+      "Airport_State": "Idaho"
+    },
+    {
+      "Airport_City": "Wilmington",
+      "Airport_Code": "ILG",
+      "Airport_Name": "New Castle Airport",
+      "Airport_State": "Delaware"
+    },
+    {
+      "Airport_City": "Wilmington",
+      "Airport_Code": "ILM",
+      "Airport_Name": "Wilmington International Airport",
+      "Airport_State": "North Carolina"
+    },
+    {
+      "Airport_City": "Iron Mountain/Kingsford",
+      "Airport_Code": "IMT",
+      "Airport_Name": "Ford Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Indianapolis",
+      "Airport_Code": "IND",
+      "Airport_Name": "Indianapolis International Airport",
+      "Airport_State": "Indiana"
+    },
+    {
+      "Airport_City": "International Falls",
+      "Airport_Code": "INL",
+      "Airport_Name": "Falls International Airport",
+      "Airport_State": "Minnesota"
+    },
+    {
+      "Airport_City": "Kinston",
+      "Airport_Code": "ISO",
+      "Airport_Name": "Kinston Regional Jetport at Stallings Field",
+      "Airport_State": "North Carolina"
+    },
+    {
+      "Airport_City": "Islip",
+      "Airport_Code": "ISP",
+      "Airport_Name": "Long Island MacArthur Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Ithaca/Cortland",
+      "Airport_Code": "ITH",
+      "Airport_Name": "Ithaca Tompkins Regional Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Hilo",
+      "Airport_Code": "ITO",
+      "Airport_Name": "Hilo International Airport",
+      "Airport_State": "Hawaii"
+    },
+    {
+      "Airport_City": "Jackson",
+      "Airport_Code": "JAC",
+      "Airport_Name": "Jackson Hole Airport",
+      "Airport_State": "Wyoming"
+    },
+    {
+      "Airport_City": "Jackson",
+      "Airport_Code": "JAN",
+      "Airport_Name": "Jackson-Medgar Wiley Evers International Airport",
+      "Airport_State": "Mississippi"
+    },
+    {
+      "Airport_City": "Jacksonville",
+      "Airport_Code": "JAX",
+      "Airport_Name": "Jacksonville International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "New York City",
+      "Airport_Code": "JFK",
+      "Airport_Name": "John F. Kennedy International Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Joplin",
+      "Airport_Code": "JLN",
+      "Airport_Name": "Joplin Regional Airport",
+      "Airport_State": "Missouri"
+    },
+    {
+      "Airport_City": "Jamestown",
+      "Airport_Code": "JMS",
+      "Airport_Name": "Jamestown Regional Airport",
+      "Airport_State": "North Dakota"
+    },
+    {
+      "Airport_City": "Juneau",
+      "Airport_Code": "JNU",
+      "Airport_Name": "Juneau International Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Kailua-Kona",
+      "Airport_Code": "KOA",
+      "Airport_Name": "Ellison Onizuka Kona International Airport at Ke\u0101hole",
+      "Airport_State": "Hawaii"
+    },
+    {
+      "Airport_City": "Ketchikan",
+      "Airport_Code": "KTN",
+      "Airport_Name": "Ketchikan International Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Lansing",
+      "Airport_Code": "LAN",
+      "Airport_Name": "Capital Region International Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Las Vegas",
+      "Airport_Code": "LAS",
+      "Airport_Name": "McCarran International Airport",
+      "Airport_State": "Nevada"
+    },
+    {
+      "Airport_City": "Lawton",
+      "Airport_Code": "LAW",
+      "Airport_Name": "Lawton-Fort Sill Regional Airport",
+      "Airport_State": "Oklahoma"
+    },
+    {
+      "Airport_City": "Los Angeles",
+      "Airport_Code": "LAX",
+      "Airport_Name": "Los Angeles International Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Lubbock",
+      "Airport_Code": "LBB",
+      "Airport_Name": "Lubbock Preston Smith International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Latrobe",
+      "Airport_Code": "LBE",
+      "Airport_Name": "Arnold Palmer Regional Airport",
+      "Airport_State": "Pennsylvania"
+    },
+    {
+      "Airport_City": "North Platte",
+      "Airport_Code": "LBF",
+      "Airport_Name": "North Platte Regional Airport",
+      "Airport_State": "Nebraska"
+    },
+    {
+      "Airport_City": "Liberal",
+      "Airport_Code": "LBL",
+      "Airport_Name": "Liberal Mid-America Regional Airport",
+      "Airport_State": "Kansas"
+    },
+    {
+      "Airport_City": "Lake Charles",
+      "Airport_Code": "LCH",
+      "Airport_Name": "Lake Charles Regional Airport",
+      "Airport_State": "Louisiana"
+    },
+    {
+      "Airport_City": "Columbus",
+      "Airport_Code": "LCK",
+      "Airport_Name": "Rickenbacker International Airport",
+      "Airport_State": "Ohio"
+    },
+    {
+      "Airport_City": "Lebanon",
+      "Airport_Code": "LEB",
+      "Airport_Name": "Lebanon Municipal Airport",
+      "Airport_State": "New Hampshire"
+    },
+    {
+      "Airport_City": "Lexington",
+      "Airport_Code": "LEX",
+      "Airport_Name": "Blue Grass Airport",
+      "Airport_State": "Kentucky"
+    },
+    {
+      "Airport_City": "Lafayette",
+      "Airport_Code": "LFT",
+      "Airport_Name": "Lafayette Regional Airport",
+      "Airport_State": "Louisiana"
+    },
+    {
+      "Airport_City": "New York City",
+      "Airport_Code": "LGA",
+      "Airport_Name": "LaGuardia Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Long Beach",
+      "Airport_Code": "LGB",
+      "Airport_Name": "Long Beach Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Lihue",
+      "Airport_Code": "LIH",
+      "Airport_Name": "Lihue Airport",
+      "Airport_State": "Hawaii"
+    },
+    {
+      "Airport_City": "Little Rock",
+      "Airport_Code": "LIT",
+      "Airport_Name": "Bill and Hillary Clinton National Airport/Adams Field",
+      "Airport_State": "Arkansas"
+    },
+    {
+      "Airport_City": "Lincoln",
+      "Airport_Code": "LNK",
+      "Airport_Name": "Lincoln Airport",
+      "Airport_State": "Nebraska"
+    },
+    {
+      "Airport_City": "Lancaster",
+      "Airport_Code": "LNS",
+      "Airport_Name": "Lancaster Airport",
+      "Airport_State": "Pennsylvania"
+    },
+    {
+      "Airport_City": "Laredo",
+      "Airport_Code": "LRD",
+      "Airport_Name": "Laredo International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "La Crosse",
+      "Airport_Code": "LSE",
+      "Airport_Name": "La Crosse Regional Airport",
+      "Airport_State": "Wisconsin"
+    },
+    {
+      "Airport_City": "Lewiston",
+      "Airport_Code": "LWS",
+      "Airport_Name": "Lewiston-Nez Perce County Airport",
+      "Airport_State": "Idaho"
+    },
+    {
+      "Airport_City": "Lynchburg",
+      "Airport_Code": "LYH",
+      "Airport_Name": "Lynchburg Regional Airport",
+      "Airport_State": "Virginia"
+    },
+    {
+      "Airport_City": "Midland/Odessa",
+      "Airport_Code": "MAF",
+      "Airport_Name": "Midland International Air and Space Port",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Saginaw/Bay City/Midland",
+      "Airport_Code": "MBS",
+      "Airport_Name": "MBS International Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Kansas City",
+      "Airport_Code": "MCI",
+      "Airport_Name": "Kansas City International Airport",
+      "Airport_State": "Missouri"
+    },
+    {
+      "Airport_City": "Macon",
+      "Airport_Code": "MCN",
+      "Airport_Name": "Middle Georgia Regional Airport",
+      "Airport_State": "Georgia"
+    },
+    {
+      "Airport_City": "Orlando",
+      "Airport_Code": "MCO",
+      "Airport_Name": "Orlando International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Harrisburg",
+      "Airport_Code": "MDT",
+      "Airport_Name": "Harrisburg International Airport",
+      "Airport_State": "Pennsylvania"
+    },
+    {
+      "Airport_City": "Chicago",
+      "Airport_Code": "MDW",
+      "Airport_Name": "Chicago Midway International Airport",
+      "Airport_State": "Illinois"
+    },
+    {
+      "Airport_City": "Meridian",
+      "Airport_Code": "MEI",
+      "Airport_Name": "Key Field Airport",
+      "Airport_State": "Mississippi"
+    },
+    {
+      "Airport_City": "Memphis",
+      "Airport_Code": "MEM",
+      "Airport_Name": "Memphis International Airport",
+      "Airport_State": "Tennessee"
+    },
+    {
+      "Airport_City": "McAllen",
+      "Airport_Code": "MFE",
+      "Airport_Name": "McAllen-Miller International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Medford",
+      "Airport_Code": "MFR",
+      "Airport_Name": "Rogue Valley International-Medford Airport",
+      "Airport_State": "Oregon"
+    },
+    {
+      "Airport_City": "Montgomery",
+      "Airport_Code": "MGM",
+      "Airport_Name": "Montgomery Regional Airport",
+      "Airport_State": "Alabama"
+    },
+    {
+      "Airport_City": "Manhattan",
+      "Airport_Code": "MHK",
+      "Airport_Name": "Manhattan Regional Airport",
+      "Airport_State": "Kansas"
+    },
+    {
+      "Airport_City": "Manchester",
+      "Airport_Code": "MHT",
+      "Airport_Name": "Manchester-Boston Regional Airport",
+      "Airport_State": "New Hampshire"
+    },
+    {
+      "Airport_City": "Miami",
+      "Airport_Code": "MIA",
+      "Airport_Name": "Miami International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Milwaukee",
+      "Airport_Code": "MKE",
+      "Airport_Name": "General Mitchell International Airport",
+      "Airport_State": "Wisconsin"
+    },
+    {
+      "Airport_City": "Muskegon",
+      "Airport_Code": "MKG",
+      "Airport_Name": "Muskegon County Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Melbourne",
+      "Airport_Code": "MLB",
+      "Airport_Name": "Melbourne International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Moline",
+      "Airport_Code": "MLI",
+      "Airport_Name": "Quad City International Airport",
+      "Airport_State": "Illinois"
+    },
+    {
+      "Airport_City": "Monroe",
+      "Airport_Code": "MLU",
+      "Airport_Name": "Monroe Regional Airport",
+      "Airport_State": "Louisiana"
+    },
+    {
+      "Airport_City": "Mammoth Lakes",
+      "Airport_Code": "MMH",
+      "Airport_Name": "Mammoth Yosemite Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Mobile",
+      "Airport_Code": "MOB",
+      "Airport_Name": "Mobile Regional Airport",
+      "Airport_State": "Alabama"
+    },
+    {
+      "Airport_City": "Minot",
+      "Airport_Code": "MOT",
+      "Airport_Name": "Minot International Airport",
+      "Airport_State": "North Dakota"
+    },
+    {
+      "Airport_City": "Marquette",
+      "Airport_Code": "MQT",
+      "Airport_Name": "Sawyer International Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Monterey",
+      "Airport_Code": "MRY",
+      "Airport_Name": "Monterey Regional Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Madison",
+      "Airport_Code": "MSN",
+      "Airport_Name": "Dane County Regional Airport",
+      "Airport_State": "Wisconsin"
+    },
+    {
+      "Airport_City": "Missoula",
+      "Airport_Code": "MSO",
+      "Airport_Name": "Missoula International Airport",
+      "Airport_State": "Montana"
+    },
+    {
+      "Airport_City": "Minneapolis/St. Paul",
+      "Airport_Code": "MSP",
+      "Airport_Name": "Minneapolis-Saint Paul International Airport",
+      "Airport_State": "Minnesota"
+    },
+    {
+      "Airport_City": "New Orleans",
+      "Airport_Code": "MSY",
+      "Airport_Name": "Louis Armstrong New Orleans International Airport",
+      "Airport_State": "Louisiana"
+    },
+    {
+      "Airport_City": "Montrose/Delta",
+      "Airport_Code": "MTJ",
+      "Airport_Name": "Montrose Regional Airport",
+      "Airport_State": "Colorado"
+    },
+    {
+      "Airport_City": "Myrtle Beach",
+      "Airport_Code": "MYR",
+      "Airport_Name": "Myrtle Beach International Airport",
+      "Airport_State": "South Carolina"
+    },
+    {
+      "Airport_City": "Jacksonville",
+      "Airport_Code": "OAJ",
+      "Airport_Name": "Albert J. Ellis Airport",
+      "Airport_State": "North Carolina"
+    },
+    {
+      "Airport_City": "Oakland",
+      "Airport_Code": "OAK",
+      "Airport_Name": "Oakland International Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Kahului",
+      "Airport_Code": "OGG",
+      "Airport_Name": "Kahului Airport",
+      "Airport_State": "Hawaii"
+    },
+    {
+      "Airport_City": "Ogdensburg",
+      "Airport_Code": "OGS",
+      "Airport_Name": "Ogdensburg International Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Oklahoma City",
+      "Airport_Code": "OKC",
+      "Airport_Name": "Will Rogers World Airport",
+      "Airport_State": "Oklahoma"
+    },
+    {
+      "Airport_City": "Omaha",
+      "Airport_Code": "OMA",
+      "Airport_Name": "Eppley Airfield",
+      "Airport_State": "Nebraska"
+    },
+    {
+      "Airport_City": "Nome",
+      "Airport_Code": "OME",
+      "Airport_Name": "Nome Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Ontario",
+      "Airport_Code": "ONT",
+      "Airport_Name": "Ontario International Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Chicago",
+      "Airport_Code": "ORD",
+      "Airport_Name": "O'Hare International Airport",
+      "Airport_State": "Illinois"
+    },
+    {
+      "Airport_City": "Norfolk",
+      "Airport_Code": "ORF",
+      "Airport_Name": "Norfolk International Airport",
+      "Airport_State": "Virginia"
+    },
+    {
+      "Airport_City": "Worcester",
+      "Airport_Code": "ORH",
+      "Airport_Name": "Worcester Regional Airport",
+      "Airport_State": "Massachusetts"
+    },
+    {
+      "Airport_City": "North Bend/Coos Bay",
+      "Airport_Code": "OTH",
+      "Airport_Name": "Southwest Oregon Regional Airport",
+      "Airport_State": "Oregon"
+    },
+    {
+      "Airport_City": "Kotzebue",
+      "Airport_Code": "OTZ",
+      "Airport_Name": "Ralph Wien Memorial Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Oxnard",
+      "Airport_Code": "OXR",
+      "Airport_Name": "Oxnard Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Plattsburgh",
+      "Airport_Code": "PBG",
+      "Airport_Name": "Plattsburgh International Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "West Palm Beach",
+      "Airport_Code": "PBI",
+      "Airport_Name": "Palm Beach International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Portland",
+      "Airport_Code": "PDX",
+      "Airport_Name": "Portland International Airport",
+      "Airport_State": "Oregon"
+    },
+    {
+      "Airport_City": "Panama City Beach",
+      "Airport_Code": "PFN",
+      "Airport_Name": "Northwest Florida Beaches International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Punta Gorda",
+      "Airport_Code": "PGD",
+      "Airport_Name": "Punta Gorda Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Greenville",
+      "Airport_Code": "PGV",
+      "Airport_Name": "Pitt-Greenville Airport",
+      "Airport_State": "North Carolina"
+    },
+    {
+      "Airport_City": "Newport News",
+      "Airport_Code": "PHF",
+      "Airport_Name": "Newport News/Williamsburg International Airport",
+      "Airport_State": "Virginia"
+    },
+    {
+      "Airport_City": "Philadelphia",
+      "Airport_Code": "PHL",
+      "Airport_Name": "Philadelphia International Airport",
+      "Airport_State": "Pennsylvania"
+    },
+    {
+      "Airport_City": "Phoenix",
+      "Airport_Code": "PHX",
+      "Airport_Name": "Phoenix Sky Harbor International Airport",
+      "Airport_State": "Arizona"
+    },
+    {
+      "Airport_City": "Peoria",
+      "Airport_Code": "PIA",
+      "Airport_Name": "General Wayne A. Downing Peoria International Airport",
+      "Airport_State": "Illinois"
+    },
+    {
+      "Airport_City": "Hattiesburg/Laurel",
+      "Airport_Code": "PIB",
+      "Airport_Name": "Hattiesburg-Laurel Regional Airport",
+      "Airport_State": "Mississippi"
+    },
+    {
+      "Airport_City": "Clearwater",
+      "Airport_Code": "PIE",
+      "Airport_Name": "St. Pete-Clearwater International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Pocatello",
+      "Airport_Code": "PIH",
+      "Airport_Name": "Pocatello Regional Airport",
+      "Airport_State": "Idaho"
+    },
+    {
+      "Airport_City": "Pierre",
+      "Airport_Code": "PIR",
+      "Airport_Name": "Pierre Regional Airport",
+      "Airport_State": "South Dakota"
+    },
+    {
+      "Airport_City": "Pittsburgh",
+      "Airport_Code": "PIT",
+      "Airport_Name": "Pittsburgh International Airport",
+      "Airport_State": "Pennsylvania"
+    },
+    {
+      "Airport_City": "Pellston",
+      "Airport_Code": "PLN",
+      "Airport_Name": "Pellston Regional Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Pensacola",
+      "Airport_Code": "PNS",
+      "Airport_Name": "Pensacola International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Pasco/Richland/Kennewick",
+      "Airport_Code": "PSC",
+      "Airport_Name": "Tri-Cities Airport",
+      "Airport_State": "Washington"
+    },
+    {
+      "Airport_City": "Ponce",
+      "Airport_Code": "PSE",
+      "Airport_Name": "Mercedita Airport",
+      "Airport_State": "Puerto Rico"
+    },
+    {
+      "Airport_City": "Petersburg",
+      "Airport_Code": "PSG",
+      "Airport_Name": "Petersburg James A. Johnson Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Palm Springs",
+      "Airport_Code": "PSP",
+      "Airport_Name": "Palm Springs International Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Providence",
+      "Airport_Code": "PVD",
+      "Airport_Name": "T. F. Green Airport",
+      "Airport_State": "Rhode Island"
+    },
+    {
+      "Airport_City": "Portland",
+      "Airport_Code": "PWM",
+      "Airport_Name": "Portland International Jetport",
+      "Airport_State": "Maine"
+    },
+    {
+      "Airport_City": "Rapid City",
+      "Airport_Code": "RAP",
+      "Airport_Name": "Rapid City Regional Airport",
+      "Airport_State": "South Dakota"
+    },
+    {
+      "Airport_City": "Redding",
+      "Airport_Code": "RDD",
+      "Airport_Name": "Redding Municipal Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Redmond",
+      "Airport_Code": "RDM",
+      "Airport_Name": "Redmond Municipal Airport",
+      "Airport_State": "Oregon"
+    },
+    {
+      "Airport_City": "Raleigh/Durham",
+      "Airport_Code": "RDU",
+      "Airport_Name": "Raleigh-Durham International Airport",
+      "Airport_State": "North Carolina"
+    },
+    {
+      "Airport_City": "Rockford",
+      "Airport_Code": "RFD",
+      "Airport_Name": "Chicago Rockford International Airport",
+      "Airport_State": "Illinois"
+    },
+    {
+      "Airport_City": "Rhinelander",
+      "Airport_Code": "RHI",
+      "Airport_Name": "Rhinelander-Oneida County Airport",
+      "Airport_State": "Wisconsin"
+    },
+    {
+      "Airport_City": "Richmond",
+      "Airport_Code": "RIC",
+      "Airport_Name": "Richmond International Airport",
+      "Airport_State": "Virginia"
+    },
+    {
+      "Airport_City": "Rock Springs",
+      "Airport_Code": "RKS",
+      "Airport_Name": "Southwest Wyoming Regional Airport",
+      "Airport_State": "Wyoming"
+    },
+    {
+      "Airport_City": "Reno",
+      "Airport_Code": "RNO",
+      "Airport_Name": "Reno/Tahoe International Airport",
+      "Airport_State": "Nevada"
+    },
+    {
+      "Airport_City": "Roanoke",
+      "Airport_Code": "ROA",
+      "Airport_Name": "Roanoke-Blacksburg Regional Airport",
+      "Airport_State": "Virginia"
+    },
+    {
+      "Airport_City": "Rochester",
+      "Airport_Code": "ROC",
+      "Airport_Name": "Greater Rochester International Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Roswell",
+      "Airport_Code": "ROW",
+      "Airport_Name": "Roswell International Air Center",
+      "Airport_State": "New Mexico"
+    },
+    {
+      "Airport_City": "Rochester",
+      "Airport_Code": "RST",
+      "Airport_Name": "Rochester International Airport",
+      "Airport_State": "Minnesota"
+    },
+    {
+      "Airport_City": "Fort Myers",
+      "Airport_Code": "RSW",
+      "Airport_Name": "Southwest Florida International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Santa Fe",
+      "Airport_Code": "SAF",
+      "Airport_Name": "Santa Fe Regional Airport",
+      "Airport_State": "New Mexico"
+    },
+    {
+      "Airport_City": "San Diego",
+      "Airport_Code": "SAN",
+      "Airport_Name": "San Diego International Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "San Antonio",
+      "Airport_Code": "SAT",
+      "Airport_Name": "San Antonio International Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Savannah",
+      "Airport_Code": "SAV",
+      "Airport_Name": "Savannah/Hilton Head International Airport",
+      "Airport_State": "Georgia"
+    },
+    {
+      "Airport_City": "Santa Barbara",
+      "Airport_Code": "SBA",
+      "Airport_Name": "Santa Barbara Municipal Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "South Bend",
+      "Airport_Code": "SBN",
+      "Airport_Name": "South Bend International Airport",
+      "Airport_State": "Indiana"
+    },
+    {
+      "Airport_City": "San Luis Obispo",
+      "Airport_Code": "SBP",
+      "Airport_Name": "San Luis Obispo County Regional Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Salisbury",
+      "Airport_Code": "SBY",
+      "Airport_Name": "Salisbury-Ocean City Wicomico Regional Airport",
+      "Airport_State": "Maryland"
+    },
+    {
+      "Airport_City": "Prudhoe Bay/Deadhorse",
+      "Airport_Code": "SCC",
+      "Airport_Name": "Deadhorse Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "State College",
+      "Airport_Code": "SCE",
+      "Airport_Name": "University Park Airport",
+      "Airport_State": "Pennsylvania"
+    },
+    {
+      "Airport_City": "Stockton",
+      "Airport_Code": "SCK",
+      "Airport_Name": "Stockton Metropolitan Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Louisville",
+      "Airport_Code": "SDF",
+      "Airport_Name": "Louisville Muhammad Ali International Airport",
+      "Airport_State": "Kentucky"
+    },
+    {
+      "Airport_City": "Seattle",
+      "Airport_Code": "SEA",
+      "Airport_Name": "Seattle-Tacoma International Airport",
+      "Airport_State": "Washington"
+    },
+    {
+      "Airport_City": "Orlando",
+      "Airport_Code": "SFB",
+      "Airport_Name": "Orlando Sanford International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "San Francisco",
+      "Airport_Code": "SFO",
+      "Airport_Name": "San Francisco International Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Springfield",
+      "Airport_Code": "SGF",
+      "Airport_Name": "Springfield-Branson National Airport",
+      "Airport_State": "Missouri"
+    },
+    {
+      "Airport_City": "St. George",
+      "Airport_Code": "SGU",
+      "Airport_Name": "St. George Regional Airport",
+      "Airport_State": "Utah"
+    },
+    {
+      "Airport_City": "Shreveport",
+      "Airport_Code": "SHV",
+      "Airport_Name": "Shreveport Regional Airport",
+      "Airport_State": "Louisiana"
+    },
+    {
+      "Airport_City": "Sitka",
+      "Airport_Code": "SIT",
+      "Airport_Name": "Sitka Rocky Gutierrez Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "San Jose",
+      "Airport_Code": "SJC",
+      "Airport_Name": "Norman Y. Mineta San Jose International Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "San Angelo",
+      "Airport_Code": "SJT",
+      "Airport_Name": "San Angelo Regional Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "San Juan",
+      "Airport_Code": "SJU",
+      "Airport_Name": "Luis Mu\u00f1oz Mar\u00edn International Airport",
+      "Airport_State": "Puerto Rico"
+    },
+    {
+      "Airport_City": "Salt Lake City",
+      "Airport_Code": "SLC",
+      "Airport_Name": "Salt Lake City International Airport",
+      "Airport_State": "Utah"
+    },
+    {
+      "Airport_City": "Saranac Lake/Lake Placid",
+      "Airport_Code": "SLK",
+      "Airport_Name": "Adirondack Regional Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Salina",
+      "Airport_Code": "SLN",
+      "Airport_Name": "Salina Regional Airport",
+      "Airport_State": "Kansas"
+    },
+    {
+      "Airport_City": "Sacramento",
+      "Airport_Code": "SMF",
+      "Airport_Name": "Sacramento International Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Santa Maria",
+      "Airport_Code": "SMX",
+      "Airport_Name": "Santa Maria Public Airport",
+      "Airport_State": "California"
+    },
+    {
+      "Airport_City": "Springfield",
+      "Airport_Code": "SPI",
+      "Airport_Name": "Abraham Lincoln Capital Airport",
+      "Airport_State": "Illinois"
+    },
+    {
+      "Airport_City": "Wichita Falls",
+      "Airport_Code": "SPS",
+      "Airport_Name": "Wichita Falls Municipal Airport/Sheppard AFB",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Sarasota/Bradenton",
+      "Airport_Code": "SRQ",
+      "Airport_Name": "Sarasota-Bradenton International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "St. Cloud",
+      "Airport_Code": "STC",
+      "Airport_Name": "St. Cloud Regional Airport",
+      "Airport_State": "Minnesota"
+    },
+    {
+      "Airport_City": "St. Louis",
+      "Airport_Code": "STL",
+      "Airport_Name": "St. Louis Lambert International Airport",
+      "Airport_State": "Missouri"
+    },
+    {
+      "Airport_City": "Charlotte Amalie",
+      "Airport_Code": "STT",
+      "Airport_Name": "Cyril E. King Airport",
+      "Airport_State": "U.S. Virgin Islands"
+    },
+    {
+      "Airport_City": "Christiansted",
+      "Airport_Code": "STX",
+      "Airport_Name": "Henry E. Rohlsen Airport",
+      "Airport_State": "U.S. Virgin Islands"
+    },
+    {
+      "Airport_City": "Hailey/Sun Valley",
+      "Airport_Code": "SUN",
+      "Airport_Name": "Friedman Memorial Airport",
+      "Airport_State": "Idaho"
+    },
+    {
+      "Airport_City": "Sioux City",
+      "Airport_Code": "SUX",
+      "Airport_Name": "Sioux Gateway Airport",
+      "Airport_State": "Iowa"
+    },
+    {
+      "Airport_City": "Newburgh",
+      "Airport_Code": "SWF",
+      "Airport_Name": "Stewart International Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Syracuse",
+      "Airport_Code": "SYR",
+      "Airport_Name": "Syracuse Hancock International Airport",
+      "Airport_State": "New York"
+    },
+    {
+      "Airport_City": "Telluride",
+      "Airport_Code": "TEX",
+      "Airport_Name": "Telluride Regional Airport",
+      "Airport_State": "Colorado"
+    },
+    {
+      "Airport_City": "Tallahassee",
+      "Airport_Code": "TLH",
+      "Airport_Name": "Tallahassee International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Toledo",
+      "Airport_Code": "TOL",
+      "Airport_Name": "Toledo Express Airport",
+      "Airport_State": "Ohio"
+    },
+    {
+      "Airport_City": "Tampa",
+      "Airport_Code": "TPA",
+      "Airport_Name": "Tampa International Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Bristol/Kingsport/Johnson City",
+      "Airport_Code": "TRI",
+      "Airport_Name": "Tri-Cities Regional Airport",
+      "Airport_State": "Tennessee/Virginia"
+    },
+    {
+      "Airport_City": "Trenton",
+      "Airport_Code": "TTN",
+      "Airport_Name": "Trenton-Mercer Airport",
+      "Airport_State": "New Jersey"
+    },
+    {
+      "Airport_City": "Tulsa",
+      "Airport_Code": "TUL",
+      "Airport_Name": "Tulsa International Airport",
+      "Airport_State": "Oklahoma"
+    },
+    {
+      "Airport_City": "Tucson",
+      "Airport_Code": "TUS",
+      "Airport_Name": "Tucson International Airport",
+      "Airport_State": "Arizona"
+    },
+    {
+      "Airport_City": "Traverse City",
+      "Airport_Code": "TVC",
+      "Airport_Name": "Cherry Capital Airport",
+      "Airport_State": "Michigan"
+    },
+    {
+      "Airport_City": "Twin Falls",
+      "Airport_Code": "TWF",
+      "Airport_Name": "Magic Valley Regional Airport",
+      "Airport_State": "Idaho"
+    },
+    {
+      "Airport_City": "Texarkana",
+      "Airport_Code": "TXK",
+      "Airport_Name": "Texarkana Regional Airport",
+      "Airport_State": "Arkansas/Texas"
+    },
+    {
+      "Airport_City": "Tyler",
+      "Airport_Code": "TYR",
+      "Airport_Name": "Tyler Pounds Regional Airport",
+      "Airport_State": "Texas"
+    },
+    {
+      "Airport_City": "Knoxville",
+      "Airport_Code": "TYS",
+      "Airport_Name": "McGhee Tyson Airport",
+      "Airport_State": "Tennessee"
+    },
+    {
+      "Airport_City": "St. Augustine",
+      "Airport_Code": "UST",
+      "Airport_Name": "Northeast Florida Regional Airport",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Vernal",
+      "Airport_Code": "VEL",
+      "Airport_Name": "Vernal Regional Airport",
+      "Airport_State": "Utah"
+    },
+    {
+      "Airport_City": "Valdosta",
+      "Airport_Code": "VLD",
+      "Airport_Name": "Valdosta Regional Airport",
+      "Airport_State": "Georgia"
+    },
+    {
+      "Airport_City": "Valparaiso",
+      "Airport_Code": "VPS",
+      "Airport_Name": "Destin-Fort Walton Beach Airport/Eglin Air Force Base",
+      "Airport_State": "Florida"
+    },
+    {
+      "Airport_City": "Wrangell",
+      "Airport_Code": "WRG",
+      "Airport_Name": "Wrangell Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "West Yellowstone",
+      "Airport_Code": "WYS",
+      "Airport_Name": "West Yellowstone Airport",
+      "Airport_State": "Montana"
+    },
+    {
+      "Airport_City": "Fayetteville/Bentonville",
+      "Airport_Code": "XNA",
+      "Airport_Name": "Northwest Arkansas Regional Airport",
+      "Airport_State": "Arkansas"
+    },
+    {
+      "Airport_City": "Yakutat",
+      "Airport_Code": "YAK",
+      "Airport_Name": "Yakutat Airport",
+      "Airport_State": "Alaska"
+    },
+    {
+      "Airport_City": "Yakima",
+      "Airport_Code": "YKM",
+      "Airport_Name": "Yakima Air Terminal/McAllister Field",
+      "Airport_State": "Washington"
+    },
+    {
+      "Airport_City": "Youngstown",
+      "Airport_Code": "YNG",
+      "Airport_Name": "Youngstown-Warren Regional Airport",
+      "Airport_State": "Ohio"
+    },
+    {
+      "Airport_City": "Yuma",
+      "Airport_Code": "YUM",
+      "Airport_Name": "Yuma International Airport",
+      "Airport_State": "Arizona"
+    }
+  ]
+}
