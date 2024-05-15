@@ -22,5 +22,16 @@ _Summary_: We spent 3-4 hours finalizing the project site design and project abs
   - Jason will learn the basic of the Flask web framework
 
 _Summary_: We spent 30 minutes discussing the next steps for the project. Members then spent time on their tasks to further project progress.
-### 2024-03-05
+### 2024-14-05
+- *Attendees*: Jason, Lucas, Zarah
+- *Updates*:
+  - Zarah completed her two functional requirements which are the search queries and sort functionality. 
+  - Discussed methods on how to link code from the different team members to create on website. We decided to send zip files of completed functionalities for other team members to work on.
+- *Goals for next meeting*
+  - Zarah will work on the Milestone 2 Google Doc
+  - Lucas will work on his two functional requirements: user registration and reservation management.
+  - Jason will continue to work on his functional requirements.
+
+_Summary_: We spent 30 minutes discussing the steps to link members projects. This meeting served as a check in to see each members progress.
+
 ### 2024-10-05
