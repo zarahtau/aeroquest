@@ -12,7 +12,7 @@
 
 _Summary_: We spent 3-4 hours finalizing the project site design and project abstract. We spent time establishing requirements of each team member.
 
-### 2024-26-04
+### 2024-10-05
 - *Attendees*: Jason, Zarah
 - *Updates*:
   - Created and finalized datasets and schema for Flask app. 
