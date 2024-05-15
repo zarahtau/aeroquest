@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <form action="/SortRoundTripFlights" method="POST">
+        <label for="sort_option">Order By:</label>
+        <select name="sort_option" id="sort_option">
+            <option value="asc">Ascending Price</option>
+            <option value="desc">Descending Price</option>
+            <option value ="default">Default</option>
+            <option value ="time">Dept Time</option>
+        </select>
+        <button type="submit">Sort</button>
+    </form>
+    <h1>Departure and Arrival Flights</h1>
+    <h2>Departure Flights</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Departure Date</th>
+                <th>Arrival Date</th>
+                <th>Departure Airport</th>
+                <th>Destination Airport</th>
+                <th>Departure Time</th>
+                <th>Arrival Time</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% if departure_flights %}
+                {% for flight in departure_flights %}
+                    <tr>
+                        <td>{{ flight.Departure_Date }}</td>
+                        <td>{{ flight.Arrival_Date }}</td>
+                        <td>{{ flight.Source_Airport_Code }}</td>
+                        <td>{{ flight.Destination_Airport_Code }}</td>
+                        <td>{{ flight.Departure_Time }}</td>
+                        <td>{{ flight.Arrival_Time }}</td>
+                        <td>${{ flight.Price }}</td>
+                    </tr>
+                {% endfor %}
+            {% else %}
+                <tr><td colspan="7">No departure flights found</td></tr>
+            {% endif %}
+        </tbody>
+    </table>
+
+    <h2>Arrival Flights</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Departure Date</th>
+                <th>Arrival Date</th>
+                <th>Departure Airport</th>
+                <th>Destination Airport</th>
+                <th>Departure Time</th>
+                <th>Arrival Time</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% if arrival_flights %}
+                {% for flight in arrival_flights %}
+                    <tr>
+                        <td>{{ flight.Departure_Date }}</td>
+                        <td>{{ flight.Arrival_Date }}</td>
+                        <td>{{ flight.Source_Airport_Code }}</td>
+                        <td>{{ flight.Destination_Airport_Code }}</td>
+                        <td>{{ flight.Departure_Time }}</td>
+                        <td>{{ flight.Arrival_Time }}</td>
+                        <td>${{ flight.Price }}</td>
+                    </tr>
+                {% endfor %}
+            {% else %}
+                <tr><td colspan="7">No arrival flights found</td></tr>
+            {% endif %}
+        </tbody>
+    </table>
+</body>
+</html>
