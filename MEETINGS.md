@@ -34,4 +34,14 @@ _Summary_: We spent 30 minutes discussing the next steps for the project. Member
 
 _Summary_: We spent 30 minutes discussing the steps to link members projects. This meeting served as a check in to see each members progress.
 
-### 2024-10-05
+### 2024-15-05
+- *Attendees*: Jason, Lucas
+- *Updates*:
+  - Discussed updates on team progress and final project submission
+  - Jason added select flight feature to the reservation site where a user can select a flight from queried options
+- *Goals for next meeting*:
+  - Lucas will finish his user login implementation
+  - Jason and Zarah will coordinate to ensure that the flight system properly shows the queried flights after selection
+
+_Summary_: We spent 30 minutes discussing the final web requirements and gave updates to team members regarding individual progress.
+
