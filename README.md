@@ -38,6 +38,8 @@ This shows how to clone the repository from Github. These commands should be run
 2. ```cd aeroquest```
 3. ```python3 -m venv venv```
 4. ```source venv/bin/activate```
+5. Install Dependencies ```pip3 install -r dependencies.txt```
+
 Ensure that JSON file (‘AirportFlightsandPrices.json’) in the ‘Resources’ directory
 
 To run the application, execute:
